@@ -1,0 +1,40 @@
+Images:
+  - .jpg
+  - .jpeg
+  - .png
+  - .gif
+  - .webp
+  - .heic
+
+Documents:
+  - .pdf
+  - .doc
+  - .docx
+  - .txt
+  - .ppt
+  - .pptx
+  - .xls
+  - .xlsx
+
+Archives:
+  - .zip
+  - .rar
+  - .7z
+  - .tar
+  - .gz
+
+Videos:
+  - .mp4
+  - .mov
+  - .mkv
+  - .avi
+
+Audio:
+  - .mp3
+  - .wav
+  - .m4a
+  - .aac
+Code:
+  - .py
+  - .ipynb
+  - .json
