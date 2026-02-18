@@ -19,14 +19,14 @@ Built with Python, watchdog, YAML configuration, and SHA-256 hashing for duplica
 
 ## 📂 Folder Structure
 Downloads/
-└── Organized/
-├── Documents/
-├── Images/
-├── Videos/
-├── Archives/
-├── Audio/
-├── Others/
-└── Duplicates/
+Organized/
+Documents/
+Images/
+Videos/
+Archives/
+Audio/
+Others/
+Duplicates/
 ---
 
 ## Installation
